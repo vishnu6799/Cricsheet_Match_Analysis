@@ -1,4 +1,4 @@
-#  Cricsheet Match Data Analysis Project
+#  Cricsheet Match Analysis
 
 An end-to-end data analytics pipeline using real-world cricket match data from [Cricsheet](https://cricsheet.org). This project automates scraping, transforms match data into a structured SQL format, performs SQL-based analysis, and visualizes insights using Python and Power BI.
 
